@@ -5,20 +5,14 @@
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=for-the-badge" alt="Platform">
 </p>
 
-<h1 align="center">
-  <br>
-  <pre>
+```
   ___                   _
  |_ _|_ __  _ __  _   _| |_ ___ _ __
   | || '_ \| '_ \| | | | __/ _ \ '__|
   | || | | | |_) | |_| | ||  __/ |
  |___|_| |_| .__/ \__,_|\__\___|_|
            |_|
-  </pre>
-  <br>
-  Form & Input Parameter Extractor
-  <br>
-</h1>
+```
 
 <p align="center">
   <b>A fast, concurrent web form scanner that extracts input parameters for security testing</b>
